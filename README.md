@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kovalensue
-- 👀 I’m interested in databases, webdev and data analysis.
-- 🌱 I’m currently learning Python (Django, pandas, numpy) and oradb admin stuff.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
